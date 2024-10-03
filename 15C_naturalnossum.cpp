@@ -5,7 +5,7 @@ int sum(int n)
 {
     if(n==0)
     {
-        cout<< " Number should be greater than 1"<<endl;
+        cout<< "Number should be greater than 1"<<endl;
     }
     if(n==1)
     {
